@@ -6,7 +6,7 @@ requestRouter:
 dataStore:
   jdbcUrl: jdbc:mysql://127.0.0.1:3306/prestogateway
   user: root
-  password: root123
+  password: linying123
   driver: com.mysql.cj.jdbc.Driver
 
 server:
